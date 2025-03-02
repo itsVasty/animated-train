@@ -1,1 +1,6 @@
-.Navbar {}
+.Navbar {
+    a {
+        padding-right: 10px;
+    }
+    
+}

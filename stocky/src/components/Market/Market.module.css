@@ -1,1 +1,8 @@
-.Market {}
+.Market {
+    th {
+        padding-right: 12px;
+    }
+    td {
+        padding-right: 12px;
+    }
+}
